@@ -1,4 +1,4 @@
 curso-node-js
 =============
 
-Curso Node.JS
+1st Node.js course
